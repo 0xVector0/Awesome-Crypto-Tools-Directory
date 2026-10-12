@@ -65,6 +65,7 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 
 | Tool | Score/10 | Type | Best for | Features |
 | ---- | -------- | ---- | -------- | -------- |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
 | [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
 | [CoinDesk](https://cryptotoolsdirectory.com/tools/coindesk) | 9.7 /10 | News | Markets, policy, industry | Breaking news, Consensus conference, institutional and regulatory coverage |
@@ -341,7 +342,7 @@ Live prices, rankings, watchlists, and multi-wallet/exchange portfolios—track 
 | [TrueHold](https://www.truehold.xyz) | — | Portfolio tracker | Wallets, exchanges and perps in one view | Wallets by public address, exchanges by read-only API key, DeFi and perp positions, P&L, AI agent for portfolio questions |
 | [CEXQA](https://cexqa.com/) | — | Exchange reference data | Coin listings and transfer-network checks | Chinese-language coin and pair lookup, withdrawal-fee and network comparisons; confirm current availability on the exchange before transferring |
 | [CoinGree](https://coingree.com/) | — | Exchange-cost research | Trading-fee comparisons | Public fee calculator, exchange comparisons, funding data and events; account tier and current exchange rules determine actual charges |
-| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | — | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
+| [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 
 
 ---
