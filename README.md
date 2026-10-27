@@ -65,6 +65,7 @@ Want a slot? [Submit your tool](https://cryptotoolsdirectory.com/) on the direct
 
 | Tool | Score/10 | Type | Best for | Features |
 | ---- | -------- | ---- | -------- | -------- |
+| [ARKOSCOPE](https://cryptotoolsdirectory.com/tools/arkoscope) | 9.3 /10 | News | The crypto information network, without the noise | Follow the Feed and project cards in EN, FR, ES, DE and NL |
 | [loweef Crypto Futures Fee Index](https://loweef.io/en/crypto-futures-fee-index/) | 9.4 | Exchange-cost data | Comparing futures taker and maker fees | VIP 0 USDT-margined perpetual taker/maker fees for 8 exchanges with per-row check dates and official fee-page links, effective taker fee after a fee rebate, free CSV; check the exchange for current fees |
 | [MoneyMarket365](https://moneymarket365.com/) | 9.6 /10 | Live market analytics | Crypto + macro overview | Real-time crypto, equity, and commodity prices, AI-ranked news, and prediction markets |
 | [Polymarket](https://cryptotoolsdirectory.com/tools/polymarket) | 9.8 /10 | Event market | On-chain prediction markets | Deep crypto-native liquidity, politics/crypto/culture markets, self-custody |
